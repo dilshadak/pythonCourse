@@ -1,11 +1,11 @@
 A 2 moth course, 2 session every week		
 Session	SN	Topic
-History:
+History:	Dilshad Ahmad
 1	1	Author
 1	2	Python 2
 1	3	Python 3
 		
-Interpretor:	
+Interpretor:	Dilshad Ahmad
 1	4	Python in chrome
 1	5	Online python interpretor
 1	6	Installing python in computer
