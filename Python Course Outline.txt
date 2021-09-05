@@ -45,3 +45,8 @@ Expert: Khizar Hayat
 7	30	Machine learning: sklearn, tensorflow, keras
 8	31	Projects: Web, API
 8	32	Projects: Data Analytics, ML
+8	33	Closing
+
+=========================
+
+=========================
