@@ -18,7 +18,8 @@ Ses	SN	Topic
 2	10	for loop
 2	11	while loop
 		
-Intermediate:	Dilshad Ahmad	
+Intermediate:	Dilshad Ahmad
+Ses	SN	Topic
 3	12	function, class, module
 3	13	Built in functions
 3	14	Built in modules
@@ -31,6 +32,7 @@ Intermediate:	Dilshad Ahmad
 4	21	input output, file reading/writing
 
 Advance:	Dilshad Ahmad
+Ses	SN	Topic
 4	22	class and oops
 5	23	Documentation
 5	24	Error handeling
@@ -38,6 +40,7 @@ Advance:	Dilshad Ahmad
 5	26	Python module
 		
 Expert: Khizar Hayat
+Ses	SN	Topic
 5	27	Famous modules
 6	27	Web/API: flask, django
 6	29	Plotting: Matplotlib/plotly/dash
