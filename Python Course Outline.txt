@@ -39,7 +39,7 @@ Ses	SN	Topic
 5	25	Testing
 5	26	Python Package
 		
-Expert: Khizar Hayat
+Expert: 	Khizar Hayat
 Ses	SN	Topic
 5	27	Famous modules
 6	27	Web/API: flask, django
