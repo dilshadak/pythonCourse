@@ -20,15 +20,15 @@ Ses	SN	Topic
 		
 Intermediate:	Dilshad Ahmad
 Ses	SN	Topic
-3	12	function, class, module
-3	13	Built in functions
-3	14	Built in modules
+2	12	function, class, module
+2	13	Built in functions
+2	14	Built in modules
 3	15	List, list function
 3	16	List comprehension
 3	17	String, string function
 3	18	Dictionary, dictionary function
-4	19	Python function, lambda function
-4	20	map, filter, decorators, generators, 
+3	19	Python function, lambda function
+3	20	map, filter, decorators, generators, 
 4	21	input output, file reading/writing
 
 Advance:	Dilshad Ahmad
