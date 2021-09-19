@@ -27,8 +27,8 @@ Ses	SN	Topic
 3	16	List comprehension
 3	17	String, string function
 3	18	Dictionary, dictionary function
-3	19	Python function, lambda function
-3	20	map, filter, decorators, generators, 
+4	19	Python function, lambda function
+4	20	map, filter, decorators, generators, 
 4	21	input output, file reading/writing
 
 Advance:	Dilshad Ahmad
