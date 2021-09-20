@@ -11,3 +11,12 @@ https://youtu.be/V_SySWVBDLU
 ### 2. Data Types in Python
 https://youtu.be/QTbKHedXSLA
 
+### 3. Variables
+https://youtu.be/BI8ZvJ-r6Us
+
+### 4. Comparison Operator | if condition | For Loop | While Loop
+https://youtu.be/SQeOqzcdAYI
+
+### 5. Introduction to Function | Class | Modules
+https://youtu.be/JVTXFywfvg8
+
