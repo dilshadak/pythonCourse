@@ -20,3 +20,6 @@ https://youtu.be/SQeOqzcdAYI
 ### 5. Introduction to Function | Class | Modules
 https://youtu.be/JVTXFywfvg8
 
+### 6. All about List | List Comprehension | String | Tuple | Set | Dictionary
+
+https://youtu.be/-fHN-5dINtM
