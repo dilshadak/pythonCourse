@@ -29,11 +29,11 @@ Ses	SN	Topic
 3	18	Dictionary, dictionary function
 4	19	Python function, lambda function
 4	20	map, filter, decorators, generators, 
-4	21	input output, file reading/writing
+5	22	class and oops
 
 Advance:	Dilshad Ahmad
 Ses	SN	Topic
-4	22	class and oops
+5	21	input output, file reading/writing
 5	23	Documentation
 5	24	Error handeling
 5	25	Testing
@@ -41,7 +41,7 @@ Ses	SN	Topic
 		
 Expert: 	Khizar Hayat
 Ses	SN	Topic
-5	27	Famous modules
+6	27	Famous modules
 6	27	Web/API: flask, django
 6	29	Plotting: Matplotlib/plotly/dash
 7	28	Data anlysis: pandas, StatsModel, Seaborn
