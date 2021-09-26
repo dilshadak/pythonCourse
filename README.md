@@ -23,3 +23,7 @@ https://youtu.be/JVTXFywfvg8
 ### 6. All about List | List Comprehension | String | Tuple | Set | Dictionary
 
 https://youtu.be/-fHN-5dINtM
+
+### 7. All about Python Functions
+
+https://youtu.be/EtsAGGZ5uHI
