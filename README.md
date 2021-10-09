@@ -27,3 +27,7 @@ https://youtu.be/-fHN-5dINtM
 ### 7. All about Python Functions
 
 https://youtu.be/EtsAGGZ5uHI
+
+### 8. Python classes and oops
+
+https://youtu.be/XKGX2mYoW5s
