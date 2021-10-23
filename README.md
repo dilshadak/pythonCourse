@@ -31,3 +31,7 @@ https://youtu.be/EtsAGGZ5uHI
 ### 8. Python classes and oops
 
 https://youtu.be/XKGX2mYoW5s
+
+### 9. Web Development using Django
+
+https://youtu.be/4JVkTk5_Z88
