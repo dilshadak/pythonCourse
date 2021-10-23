@@ -32,6 +32,10 @@ https://youtu.be/EtsAGGZ5uHI
 
 https://youtu.be/XKGX2mYoW5s
 
-### 9. Web Development using Django
+### 9. Web Development using Django Part 1
 
 https://youtu.be/4JVkTk5_Z88
+
+### 10. Web Development using Django Part 2
+
+https://youtu.be/q6mZBjE2s_o
